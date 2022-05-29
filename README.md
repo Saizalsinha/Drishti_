@@ -13,7 +13,7 @@ Using face recognition technology, the system will identify object, emotions and
 * tensorflow
 
 ## Getting Started
-After cloning the repository,
+After cloning the repository, go to **drishti** named folder then:
 1. Go to **Face-recog** folder and run the following commands
 
 `  npm install`
